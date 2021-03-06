@@ -6,7 +6,7 @@
       <File FileName="html_project/Views/Shared/_Layout.cshtml" />
       <File FileName="html_project/Views/Home/Index.cshtml" />
       <File FileName="html_project/Controllers/HomeController.cs" />
-      <File FileName="html_project/Views/Home/UserProfile.cshtml" Line="49" Column="30" />
+      <File FileName="html_project/Views/Home/UserProfile.cshtml" Line="39" Column="41" />
       <File FileName="html_project/Views/Home/Register.cshtml" />
     </Files>
     <Pads>
