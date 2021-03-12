@@ -1,30 +1,33 @@
 ﻿<Properties StartupConfiguration="{3FB3E186-FA83-42CF-B6F2-778BF2802139}|Default">
   <MonoDevelop.Ide.ItemProperties.html__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="html_project/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="html_project/wwwroot/css/Index.css">
     <Files>
-      <File FileName="html_project/Program.cs" Line="1" Column="1" />
-      <File FileName="html_project/Views/Shared/_Layout.cshtml" />
-      <File FileName="html_project/Views/Home/Index.cshtml" Line="51" Column="5" />
-      <File FileName="html_project/Controllers/HomeController.cs" />
-<<<<<<< HEAD
-      <File FileName="html_project/Views/Home/UserProfile.cshtml" />
-=======
-      <File FileName="html_project/Views/Home/UserProfile.cshtml" Line="52" Column="67" />
->>>>>>> d8ceadb6639581d4908136974d4b9672381405ef
-      <File FileName="html_project/Views/Home/Register.cshtml" />
-      <File FileName="html_project/Views/Home/Privacy.cshtml" />
+      <File FileName="html_project/Views/Home/Index.cshtml" Line="14" Column="25" />
+      <File FileName="html_project/wwwroot/css/Index.css" Line="28" Column="17" />
+      <File FileName="html_project/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="html_project/Views/Home/UserProfile.cshtml" Line="1" Column="1" />
+      <File FileName="html_project/Views/Shared/_Layout.cshtml" Line="16" Column="74" />
+      <File FileName="html_project/Views/Home/Register.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="html_project" expanded="True">
             <Node name="html_project" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="Index.css" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

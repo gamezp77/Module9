@@ -661,11 +661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gamezjr/Desktop/HTML Project/Module8Assignment/html_project/html_project.csproj",
+      "projectUniqueName": "/Users/gamezjr/Desktop/HTML Project/Module9Assignment/html_project/html_project.csproj",
       "projectName": "html_project",
-      "projectPath": "/Users/gamezjr/Desktop/HTML Project/Module8Assignment/html_project/html_project.csproj",
+      "projectPath": "/Users/gamezjr/Desktop/HTML Project/Module9Assignment/html_project/html_project.csproj",
       "packagesPath": "/Users/gamezjr/.nuget/packages/",
-      "outputPath": "/Users/gamezjr/Desktop/HTML Project/Module8Assignment/html_project/obj/",
+      "outputPath": "/Users/gamezjr/Desktop/HTML Project/Module9Assignment/html_project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gamezjr/.config/NuGet/NuGet.Config"

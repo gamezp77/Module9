@@ -1,0 +1,32 @@
+﻿body {
+    color: black;
+    background-color: #fafafa;
+}
+
+table {
+    color: blue;
+}
+
+button {
+    color: white;
+    background-color:#0095f6;
+}
+
+p {
+    color yellow;
+}
+
+footer {
+    color: #fafafa;
+    background-color:#cccccc;
+}
+.GramButton{
+    background-color:green;
+}
+header {
+    background-color:#0095f6;
+    color:white;
+}
+.pb3{
+    text-align:center;
+}
