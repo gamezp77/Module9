@@ -6,7 +6,11 @@
       <File FileName="html_project/Views/Shared/_Layout.cshtml" />
       <File FileName="html_project/Views/Home/Index.cshtml" Line="51" Column="5" />
       <File FileName="html_project/Controllers/HomeController.cs" />
+<<<<<<< HEAD
       <File FileName="html_project/Views/Home/UserProfile.cshtml" />
+=======
+      <File FileName="html_project/Views/Home/UserProfile.cshtml" Line="52" Column="67" />
+>>>>>>> d8ceadb6639581d4908136974d4b9672381405ef
       <File FileName="html_project/Views/Home/Register.cshtml" />
       <File FileName="html_project/Views/Home/Privacy.cshtml" />
     </Files>

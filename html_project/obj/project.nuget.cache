@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TMNNhtS05s8hBvxVnrD8Lp5iQGbTX7+/v2KiQmNBD+LsibB79WlAtqGChln+4ZzNnRcljGCBOmYiOQ4/uB4Kg==",
+  "dgSpecHash": "eG38tyMtg2Jvq+PluWmx301JWNsrzuttuoRDWIQ/Y5PF4kh5uv81tL4+qDW8QPKgjlswa2EdZWKl+H2Bv13fIw==",
   "success": true,
-  "projectFilePath": "/Users/gamezjr/Desktop/HTML Project/MidTermProject/html_project/html_project.csproj",
+  "projectFilePath": "/Users/gamezjr/Desktop/HTML Project/Module8Assignment/html_project/html_project.csproj",
   "expectedPackageFiles": [
     "/Users/gamezjr/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.12/microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "/Users/gamezjr/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.12/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",
